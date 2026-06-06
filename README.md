@@ -309,9 +309,10 @@ This project demonstrates:
 
 ## 👤 Author
 
-**Himansu Sekhar B.**
-- GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/himansu2198))
-- LinkedIn: [your-linkedin]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/himansu-sekhar-behura-816133256/))
+**Himansu Sekhar Behura**
+
+- GitHub: [@himansu2198](https://github.com/himansu2198)
+- LinkedIn: [Himansu Sekhar Behura](https://www.linkedin.com/in/himansu-sekhar-behura-816133256/)
 
 ---
 
