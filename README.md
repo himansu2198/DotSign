@@ -309,9 +309,9 @@ This project demonstrates:
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**Himansu Sekhar B.**
+- GitHub: [@yourusername]([https://github.com/yourusername](https://github.com/himansu2198))
+- LinkedIn: [your-linkedin]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/himansu-sekhar-behura-816133256/))
 
 ---
 
@@ -321,4 +321,4 @@ MIT License — free to use for portfolio and learning purposes.
 
 ---
 
-> 🖊️ Crafted with ❤️ by **Himansu Sekhar Behura**
+> 🖊️ Crafted with ❤️ by **Himansu**
