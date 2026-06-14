@@ -263,26 +263,31 @@ uvicorn main:app --reload --port 8000
 ---
 
 ## 📸 Screenshots
+<img width="1901" height="810" alt="image" src="https://github.com/user-attachments/assets/4a1c5f01-f0c8-41c9-8b9f-5c4b0892f040" />
 
 ### Dashboard
 - Real-time document stats (total, pending, signed)
 - Quick upload button
+<img width="1915" height="809" alt="image" src="https://github.com/user-attachments/assets/a7896af9-4a95-45a0-a292-7a931aaad4eb" />
 
 ### Document Viewer
 - PDF preview with signature overlay
 - Draw signature on canvas
 - Drag and place anywhere on PDF
 - Finalize and download signed PDF
+<img width="1920" height="808" alt="image" src="https://github.com/user-attachments/assets/54a87593-15c5-4976-8bb0-7808758992ae" />
 
 ### Audit Trail
 - All actions logged with timestamp (IST)
 - IP address tracking
 - Action type badges (Viewed, Signed)
+<img width="1894" height="772" alt="image" src="https://github.com/user-attachments/assets/51edc611-1fa4-4a50-9e70-a208af0b34cb" />
 
 ### Public Signing
 - No login required for signer
 - Draw and sign via shared link
 - Download signed PDF instantly
+<img width="1563" height="791" alt="image" src="https://github.com/user-attachments/assets/316c9960-7495-4691-8002-5df487ad05b4" />
 
 ---
 
